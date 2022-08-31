@@ -1,0 +1,31 @@
+.myDiv {
+ 
+  background-color: rgb(255, 255, 255);    
+  text-align: center;
+  font-size: xxx-large ; 
+  font-family: calibri ;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: brown;
+}
+
+.right1 {
+   font-style: arial;
+  padding-left: 30px;
+  color: brown;
+}
+
+.button {
+  width: 300;
+  margin-left: 500;
+  margin-top: 75;
+  margin-bottom: 75;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center; 
+  color: rgb(255, 255, 255);
+  background-color: #454e46;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 9px #999;
+}
